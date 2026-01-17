@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\Downloads\\iis.Stupid.Template-1.9.3 (1)\\iis.Stupid.Template-1.9.3\\StupidTemplate.csproj": {}
+    "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\Downloads\\WaveTemplate\\WaveTemplate\\StupidTemplate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\Downloads\\iis.Stupid.Template-1.9.3 (1)\\iis.Stupid.Template-1.9.3\\StupidTemplate.csproj": {
+    "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\Downloads\\WaveTemplate\\WaveTemplate\\StupidTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\Downloads\\iis.Stupid.Template-1.9.3 (1)\\iis.Stupid.Template-1.9.3\\StupidTemplate.csproj",
+        "projectUniqueName": "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\Downloads\\WaveTemplate\\WaveTemplate\\StupidTemplate.csproj",
         "projectName": "StupidTemplate",
-        "projectPath": "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\Downloads\\iis.Stupid.Template-1.9.3 (1)\\iis.Stupid.Template-1.9.3\\StupidTemplate.csproj",
+        "projectPath": "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\Downloads\\WaveTemplate\\WaveTemplate\\StupidTemplate.csproj",
         "packagesPath": "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\Downloads\\iis.Stupid.Template-1.9.3 (1)\\iis.Stupid.Template-1.9.3\\obj\\",
+        "outputPath": "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\Downloads\\WaveTemplate\\WaveTemplate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yotiv.DESKTOP-8E7NDKH\\AppData\\Roaming\\NuGet\\NuGet.Config",

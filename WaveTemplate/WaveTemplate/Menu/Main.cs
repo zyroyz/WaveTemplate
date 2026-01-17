@@ -347,8 +347,8 @@ namespace StupidTemplate.Menu
             gameObject.transform.rotation = Quaternion.identity;
             gameObject.transform.localScale = new Vector3(0.06f, 0.9f, 0.08f);
             gameObject.transform.localPosition = new Vector3(0.56f, 0f, 0.34f - offset);
-            gameObject.AddComponent<Classes.Button>().relatedText = method.buttonText;
             gameObject.GetComponent<Renderer>().material.color = new Color(50f / 255f, 30f / 255f, 60f / 255f);
+            gameObject.AddComponent<Classes.Button>().relatedText = method.buttonText;
             RoundObj(gameObject);
 
             GameObject ButtonOutline = GameObject.CreatePrimitive(PrimitiveType.Cube);
@@ -365,6 +365,9 @@ namespace StupidTemplate.Menu
             ButtonOutline.AddComponent<Classes.Button>().relatedText = method.buttonText;
             ButtonOutline.GetComponent<Renderer>().material.color = new Color(148f / 255f, 0f / 255f, 211f / 255f);
             RoundObj(ButtonOutline);
+
+
+
 
 
             Text text = new GameObject

@@ -39,7 +39,7 @@ namespace StupidTemplate
         public static Color[] textColors = new Color[]
         {
             Color.white, // Disabled
-            Color.white // Enabled
+            new Color(148f / 255f, 0f / 255f, 211f / 255f) // Enabled
         };
 
         public static Font currentFont = Resources.GetBuiltinResource(typeof(Font), "Arial.ttf") as Font;
