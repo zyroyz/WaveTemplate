@@ -1,2 +1,2 @@
 # WaveTemplate
-Inspired by destiny
+Simple Remake Of Destiny
